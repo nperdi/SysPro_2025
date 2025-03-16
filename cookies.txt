@@ -1,2 +1,2 @@
 # Netscape HTTP Cookie File
-.eclass.uoa.gr   TRUE   /   FALSE   0   PHPSESSID   86831uo40q5k4u5e6ksne6pq20
+.eclass.uoa.gr   TRUE   /   FALSE   0   PHPSESSID   ai644mem2girqvaegq38bmgo18
