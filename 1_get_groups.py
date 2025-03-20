@@ -15,7 +15,7 @@ if not os.path.exists(outputDir):
 
 # Define the cookie and headers
 cookies = {
-    'PHPSESSID': 'ai644mem2girqvaegq38bmgo18'  # Replace with your actual session ID
+    'PHPSESSID': 'j2mi5ab8cvpt7kdlei5id3tcfn'  # Replace with your actual session ID
 }
 
 headers = {
